@@ -1,0 +1,9 @@
+.idea/
+.env
+.venv/
+**/McDCornJobs/McDJobs/.venv
+**/McDCornJobs/McDJobs/venv
+**/McDCornJobs/McDJobs/debug.log
+**/__pycache__/
+v1/**/migrations
+debug.log

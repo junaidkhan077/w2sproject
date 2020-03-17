@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    // width: 25%; 
+  }
+
+  .filter_cls {
+   
+    width: 20%;
+    float: left;
+}
+
+.icon_cls{
+    float: left;
+    cursor: pointer;
+}
+.create_btn{
+    float:right;
+}
+
+.filter_partner{
+  width: 20% !important;
+}
+// .mat-form-field[_ngcontent-rqb-c29] {
+//   font-size: 14px;
+//   width: 20% !important;
+// }
